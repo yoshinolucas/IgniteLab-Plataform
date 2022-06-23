@@ -47,7 +47,7 @@ export function Video(props: VideoProps) {
             <div className="bg-black flex justify-center">
                 <div className="h-full w-full max-w-[1100px] max-h-[68vh] aspect-video">
                   <Player>
-                    <Youtube videoId="GEo7W-uJNkc" />
+                    <Youtube videoId="B7nKzCRL_oo" />
                     <DefaultUi />
                   </Player>
                 </div>
@@ -56,8 +56,12 @@ export function Video(props: VideoProps) {
                 <div className="flex items-start gap-16">
 
                     <div className="flex-1">
-                        <h1 className="text-2xl font-bold"> Aula 01 - Abertura do Ignite Lab</h1>
-                        <p className="mt-4 text-gray-200 leading-relaxed">Nessa aula vamos dar início</p>
+                        <h1 className="text-2xl font-bold">The Temple Of The King</h1>
+                        <p className="mt-4 text-gray-200 leading-relaxed">The Temple Of The King · Rainbow
+
+Ritchie Blackmore's Rainbow
+
+℗ 1975 Universal Records, a Division of UMG Recordings, Inc.</p>
                         <div className="flex items-center gap-4 mt-6">
                             <img 
                             className="h-16 w-16 rounded-full border-2 border-orange-600"
